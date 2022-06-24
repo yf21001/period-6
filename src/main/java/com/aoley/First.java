@@ -10,5 +10,6 @@ public class First {
         System.out.println("第二次");
         System.out.println("dev分支添加");
         System.out.println("测试一下冲突");
+        System.out.println("dev分支测试提交冲突");
     }
 }
