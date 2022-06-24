@@ -9,5 +9,6 @@ public class First {
         System.out.println("Hello git");
         System.out.println("第二次");
         System.out.println("dev分支添加");
+        System.out.println("测试一下冲突");
     }
 }
